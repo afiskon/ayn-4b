@@ -13,3 +13,7 @@ Portable QRP CW Transceiver
 * Has a VCC indicator and a SWR meter
 * PCB is designed to fit into Hammond 1590BB enclosure
 * The project is 100% open-source
+
+Links:
+* Article (in Russian): https://eax.me/ayn-4b-transceiver/
+* Demo: https://www.youtube.com/watch?v=IM0qo4IA7QQ
