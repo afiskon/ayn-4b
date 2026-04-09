@@ -15,6 +15,6 @@ Portable QRP CW Transceiver
 * The project is 100% open-source
 
 Links:
-* Article (in Russian): https://eax.me/ayn-4b-transceiver/
+* Article (in Russian): https://eax.me/2023/2023-05-01-ayn-4b-transceiver.html
 * Demo: https://www.youtube.com/watch?v=IM0qo4IA7QQ
 * Fork by Kirill, R2AXZ with CMake support: https://github.com/r2axz/ayn-4b
